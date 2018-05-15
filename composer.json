@@ -1,5 +1,6 @@
 {
-    "name": "nullpunkt/lz-string-php",
+    "name" : "agrinvest/lz-string-php",
+    "type": "library",
     "authors": [
         {
             "name": "Tobias Seipke",
